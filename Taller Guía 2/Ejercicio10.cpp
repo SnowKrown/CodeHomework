@@ -18,6 +18,8 @@ int main()
 		else
 			cout<<"Debe ingresar un numero entre 1 y 99"<<endl<<endl;
 	}
+	
+	system("pause");
 }
 
 string getRomanNumber(int num)

@@ -18,6 +18,8 @@ int main()
 		else
 			cout<<"El dia "<<day<<" es invalido."<<endl<<endl;
 	}
+	
+	system("pause");
 }
 
 char* getDayNumber(int day)

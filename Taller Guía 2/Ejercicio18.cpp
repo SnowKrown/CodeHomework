@@ -13,5 +13,7 @@ int main()
 	for (int i = 1; i < n; i++)
 		res *= i;
 	
-	cout<<"El factorial de "<<n<<" es: "<<res;
+	cout<<"El factorial de "<<n<<" es: "<<res<<endl;
+	
+	system("pause");
 }

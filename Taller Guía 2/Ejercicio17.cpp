@@ -14,4 +14,6 @@ int main()
 		
 		cout<<"F: "<<a<<endl;
 	}
+	
+	system("pause");
 }

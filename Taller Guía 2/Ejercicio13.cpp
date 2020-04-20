@@ -21,6 +21,8 @@ int main()
 		cout<<"La opcion escogida no es valida."<<endl<<endl;
 	else
 		cout<<"El resultado de la operacion es: "<<getResult(a, b, opt)<<endl<<endl;
+		
+	system("pause");
 }
 
 float getResult(float a, float b, int operation)

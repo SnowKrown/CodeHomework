@@ -15,6 +15,8 @@ int main()
 	cout<<"Ingrese la tercera nota: ";
 	cin>>c;
 	cout<<"La nota mayor es: "<<calculateHigherNote(a, b, c)<<endl;
+	
+	system("pause");
 }
 
 float calculateHigherNote(int a, int b, int c)

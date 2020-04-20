@@ -44,6 +44,8 @@ int main()
 	cout<<"Descuento por categoria: "<<desc<<endl;
 	cout<<"Total a pagar: "<<total<<endl;
 	cout<<"-----------------------------------------------------------------"<<endl;
+	
+	system("pause");
 }
 
 int getDiscount (int value, int category)

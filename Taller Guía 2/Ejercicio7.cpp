@@ -46,4 +46,7 @@ int main()
 	cout<<"Total a pagar a credito: "<<totalNorm<<endl;
 	cout<<"Total a pagar de contado: "<<totalCont<<endl;
 	cout<<"-------------------------------------------------------------"<<endl;
+	
+	
+	system("pause");
 }

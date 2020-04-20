@@ -14,7 +14,8 @@ int main()
 	if (m >= 1 && m <= 12)
 		cout<<"El mes de "<<getMonthName(m)<<" tiene "<<getMonthDays(m)<<" dias."<<endl;
 	else
-		cout<<"El mes "<<m<<" no es valido.";
+		cout<<"El mes "<<m<<" no es valido."<<endl;
+	system("pause");
 }
 
 char* getMonthName(int month)

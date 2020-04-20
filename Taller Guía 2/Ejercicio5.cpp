@@ -18,5 +18,7 @@ int main()
 			cout<<"El divisor no puede ser cero."<<endl<<endl;
 	}
 	
-	cout<<"El resultado de dividir "<<a<<" entre "<<b<<" es: "<<(a/b);
+	cout<<"El resultado de dividir "<<a<<" entre "<<b<<" es: "<<(a/b)<<endl;
+	
+	system("pause");
 }

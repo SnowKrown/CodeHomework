@@ -16,5 +16,7 @@ int main()
 			max = v;
 	}
 	
-	cout<<endl<<"El numero mayor ingresado es: "<<max;
+	cout<<endl<<"El numero mayor ingresado es: "<<max<<endl;
+	
+	system("pause");
 }

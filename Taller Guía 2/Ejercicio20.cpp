@@ -12,5 +12,6 @@ int main()
 	for (int i = 1; i < n; i++)
 		r *= 2;
 	
-	cout<<"2^"<<n<<" es: "<<r;
+	cout<<"2^"<<n<<" es: "<<r<<endl;
+	system("pause");
 }

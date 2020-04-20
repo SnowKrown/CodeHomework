@@ -20,4 +20,6 @@ int main()
 			default: cout<<"Diez"<<endl<<endl; break;
 		}
 	}
+	cout<<endl;
+	system("pause");
 }

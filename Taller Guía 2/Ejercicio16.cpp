@@ -10,6 +10,8 @@ int main()
 	cout<<endl;
 	cout<<"PARES:"<<endl;
 	printNumbers(true);
+	cout<<endl;
+	system("pause");
 }
 
 void printNumbers(bool drawPairs)

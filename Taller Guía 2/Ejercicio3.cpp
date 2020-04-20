@@ -12,4 +12,6 @@ int main()
 		cin>>f;
 		cout<<f<<" Fahrenheit equivale a "<<(f - 32) * 5 / 9<<" grados Celsius."<<endl<<endl;
 	}
+	
+	system("pause");
 }

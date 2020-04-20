@@ -16,5 +16,7 @@ int main()
 	else if (cant > 400)
 		tot -= tot * 0.18;
 		
-	cout<<"El total a pagar es: "<<tot;
+	cout<<"El total a pagar es: "<<tot<<endl;
+	
+	system("pause");
 }

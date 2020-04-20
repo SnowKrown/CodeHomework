@@ -20,4 +20,6 @@ int main()
 	nPct = (n / t) * 100;
 	
 	cout<<"El porcentaje de personas es:"<<endl<<"Hombres: "<<hPct<<"%"<<endl<<"Mujeres: "<<mPct<<"%"<<endl<<"Ninos: "<<nPct<<"%"<<endl;
+	
+	system("pause");
 }

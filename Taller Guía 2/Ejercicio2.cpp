@@ -15,6 +15,7 @@ int main()
 	else
 		cout<<"El numero "<<number<<" no es primo."<<endl;
 	
+	system("pause");
 	return 0;
 }
 
